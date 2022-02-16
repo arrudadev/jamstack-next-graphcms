@@ -78,5 +78,7 @@ module.exports = {
     'react/jsx-no-bind': 'off',
     'react/no-typos': 'off',
     'prettier/prettier': 'error',
+    'no-use-before-define': 'off',
+    'no-shadow': 'off',
   },
 };
