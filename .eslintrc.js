@@ -80,5 +80,7 @@ module.exports = {
     'prettier/prettier': 'error',
     'no-use-before-define': 'off',
     'no-shadow': 'off',
+    'global-require': 'off',
+    '@next/next/no-img-element': 'off',
   },
 };
