@@ -82,5 +82,6 @@ module.exports = {
     'no-shadow': 'off',
     'global-require': 'off',
     '@next/next/no-img-element': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
   },
 };
