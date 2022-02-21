@@ -83,5 +83,6 @@ module.exports = {
     'global-require': 'off',
     '@next/next/no-img-element': 'off',
     'jsx-a11y/label-has-associated-control': 'off',
+    'react/no-unescaped-entities': 'off',
   },
 };
