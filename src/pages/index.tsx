@@ -1,4 +1,5 @@
 import { GetServerSideProps } from 'next';
+import Head from 'next/head';
 
 import { Features } from '../components/Features';
 import { Pricing } from '../components/Pricing';
@@ -15,6 +16,10 @@ export default function Home() {
 
   return (
     <>
+      <Head>
+        <title>{data?.page?.title}</title>
+      </Head>
+
       <Title title={data?.page?.title} subtitle={data?.page?.subtitle} />
 
       <Features />

@@ -1,4 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import Head from 'next/head';
 
 import { PostDocument, usePostQuery } from '../../generated/graphql';
 import { client, ssrCache } from '../../lib/urql';
@@ -15,28 +16,34 @@ export default function Post({ slug }) {
   });
 
   return (
-    <div className="relative pb-16 bg-white overflow-hidden">
-      <img
-        className="w-full h-96 object-cover"
-        src={post?.coverImage.url}
-        alt="Cover"
-      />
+    <>
+      <Head>
+        <title>{post?.title}</title>
+      </Head>
 
-      <div className="relative px-4 pt-16 sm:px-6 lg:px-8">
-        <div className="text-lg max-w-prose mx-auto">
-          <h1>
-            <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              {post?.title}
-            </span>
-          </h1>
-        </div>
-
-        <div
-          className="mt-6 prose prose-lg mx-auto"
-          dangerouslySetInnerHTML={{ __html: post?.content.html }}
+      <div className="relative pb-16 bg-white overflow-hidden">
+        <img
+          className="w-full h-96 object-cover"
+          src={post?.coverImage.url}
+          alt="Cover"
         />
+
+        <div className="relative px-4 pt-16 sm:px-6 lg:px-8">
+          <div className="text-lg max-w-prose mx-auto">
+            <h1>
+              <span className="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+                {post?.title}
+              </span>
+            </h1>
+          </div>
+
+          <div
+            className="mt-6 prose prose-lg mx-auto"
+            dangerouslySetInnerHTML={{ __html: post?.content.html }}
+          />
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 
