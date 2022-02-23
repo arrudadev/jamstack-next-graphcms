@@ -23,3 +23,11 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/cover.gif" height="500" width="100%" alt="cover" />
+
+# :camera: Screenshots
+
+Click to expand.<br>
+
+| Home | Home - All in One Platform Section | Home - Pricing Section | Footer |
+| ------- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home.png" width="100%" alt="Home" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-all-in-one-platform-section.png" width="100%" alt="Home - All in one Platform Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-pricing-section.png" width="100%" alt="Home - Pricing Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/footer.png" width="100%" alt="Footer" /> |
