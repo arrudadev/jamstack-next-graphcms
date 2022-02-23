@@ -21,3 +21,5 @@
   <a href="https://github.com/arrudadev/react-storybook-example/issues">Report Bug</a> •
   <a href="https://github.com/arrudadev/react-storybook-example/issues">Request Feature</a>
 </p>
+
+<img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/cover.gif" height="500" width="100%" alt="cover" />
