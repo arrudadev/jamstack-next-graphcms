@@ -145,7 +145,7 @@ For more information read the [Contributing Guidelines](https://github.com/arrud
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/arrudadev/arrudadev.png" width="100px;" alt="Alexandre Arruda"/><br>
+        <img src="https://github.com/arrudadev.png" width="100px;" alt="Alexandre Arruda"/><br>
         <sub>
           <b>Alexandre Arruda</b>
         </sub>
