@@ -14,7 +14,7 @@ This project is MIT-licensed, and this means that you can implement and use what
 
 ## Commits and Code Standardization
 
-This project follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. [Husky](https://github.com/typicode/husky) execute scrips according to git hooks in order to test if a developer is following the [Eslint Lint Rules](https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.eslintrc.js) and also the commits convention.
+This project follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. [Husky](https://github.com/typicode/husky) execute scrips according to git hooks in order to test if a developer is following the [Eslint Lint Rules](https://github.com/arrudadev/jamstack-next-graphcms/blob/main/.eslintrc.js) and also the commits convention.
 
 ## How to Contribute
 

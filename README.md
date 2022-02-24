@@ -115,7 +115,7 @@ yarn dev
   7. Open the project into your browser in http://localhost:3000
 </p>
 
-<h2 id="contributing"> :octocat: Contributing</h2>
+<h2 id="contributing"> :tada: Contributing</h2>
 
 <p align="justify">
   Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -133,4 +133,4 @@ yarn dev
 
 **After your pull request is merged**, you can safely delete your branch.
 
-For more information read the [Contributing Guidelines](https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/CONTRIBUTING.md).
+For more information read the [Contributing Guidelines](https://github.com/arrudadev/jamstack-next-graphcms/blob/main/CONTRIBUTING.md).
