@@ -28,6 +28,6 @@
 
 Click to expand.<br>
 
-| Home | Home - All in One Platform Section | Home - Pricing Section | Footer |
-| ------- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home.png" width="100%" alt="Home" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-all-in-one-platform-section.png" width="100%" alt="Home - All in one Platform Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-pricing-section.png" width="100%" alt="Home - Pricing Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/footer.png" width="100%" alt="Footer" /> |
+| Home | Home - All in One Platform Section | Home - Pricing Section | Footer | Blog | Blog content |
+| ------- | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home.png" width="100%" alt="Home" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-all-in-one-platform-section.png" width="100%" alt="Home - All in one Platform Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-pricing-section.png" width="100%" alt="Home - Pricing Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/footer.png" width="100%" alt="Footer" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/blog/blog.png" width="100%" alt="Blog" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/blog/blog-content.png" width="100%" alt="Blog Content" /> |
