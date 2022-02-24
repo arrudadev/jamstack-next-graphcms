@@ -134,3 +134,22 @@ yarn dev
 **After your pull request is merged**, you can safely delete your branch.
 
 For more information read the [Contributing Guidelines](https://github.com/arrudadev/jamstack-next-graphcms/blob/main/CONTRIBUTING.md).
+
+<h2 id="collaborators"> :tada: Collaborators</h2>
+
+<p align="justify">
+  People who contributed to this project.
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/arrudadev/arrudadev.png" width="100px;" alt="Alexandre Arruda"/><br>
+        <sub>
+          <b>Alexandre Arruda</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
