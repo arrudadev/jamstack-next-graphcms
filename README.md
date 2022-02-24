@@ -49,3 +49,64 @@ This project was developed with the following technologies:
 - [GraphCMS](https://graphcms.com/)
 - [Urql](https://formidable.com/open-source/urql/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+<h2 id="getting-started"> :runner: Getting Started</h2>
+
+<p align="justify">
+  To run the project locally follow these steps:
+</p>
+
+<h3 id="prerequisites"> :warning: Prerequisites</h3>
+
+- [NodeJs](https://nodejs.org/en/) Prefer to install the LTS version.
+- [Yarn](https://yarnpkg.com/) Need to install latest version prior to 2.0 version.
+
+<h3 id="installation"> :construction_worker: Installation</h3>
+
+<p align="justify">
+  1. To clone the project, run this command:
+</p>
+
+```
+git clone https://github.com/arrudadev/jamstack-next-graphcms.git
+```
+<p align="justify">
+  2. Install dependencies:
+</p>
+
+```
+yarn install
+```
+
+<p align="justify">
+  3. Create your environment variables based on the examples of .env.development:
+</p>
+
+```
+cp .env.development .env.local
+```
+
+<p align="justify">
+  4. Fill the .env.local with the environment variables:
+</p>
+
+key|description|example
+---|---|---
+NEXT_PUBLIC_GRAPHCMS_CONTENT_API_URL|GraphCMS API's url (used for client request)|`https://api-sa-east-1.graphcms.com/v2/anykey/master`
+GRAPHCMS_SCHEMA_PATH|GraphCMS API's url (used in graphql codegen)|`https://api-sa-east-1.graphcms.com/v2/anykey/master`
+
+<p align="justify">
+  5. Run the following command to generate Typed Queries, Mutations and, Subscriptions of the Graphql:
+</p>
+
+```
+yarn codegen
+```
+
+<p align="justify">
+  6. Run the following command to start the application in a development environment:
+</p>
+
+```
+yarn dev
+```
