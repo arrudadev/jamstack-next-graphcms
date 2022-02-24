@@ -37,3 +37,15 @@ Click to expand.<br>
 <p align="justify">
   This project is a small example of a JAMStack application, a blog built with GraphCMS. The purpose of this project is to study the consumption of Graphql APIs with React and also the use of a CMS that offers an API in Graphql. In this case, GraphCMS.
 </p>
+
+<h2 id="technologies"> :computer: Technologies</h2>
+
+This project was developed with the following technologies:
+
+- [React](https://reactjs.org)
+- [NextJs](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Graphql](https://graphql.org/)
+- [GraphCMS](https://graphcms.com/)
+- [Urql](https://formidable.com/open-source/urql/)
+- [Tailwind CSS](https://tailwindcss.com/)
