@@ -32,6 +32,18 @@ Click to expand.<br>
 | ------- | --- | --- | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home.png" width="100%" alt="Home" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-all-in-one-platform-section.png" width="100%" alt="Home - All in one Platform Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/home-pricing-section.png" width="100%" alt="Home - Pricing Section" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/home/footer.png" width="100%" alt="Footer" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/blog/blog.png" width="100%" alt="Blog" /> | <img src="https://raw.githubusercontent.com/arrudadev/jamstack-next-graphcms/main/.github/assets/blog/blog-content.png" width="100%" alt="Blog Content" /> |
 
+<h2 id="table-of-contents"> :pushpin: Table of Contents</h2>
+
+* [About The Project](#about-the-project)
+* [Technologies](#technologies)
+* [Getting Started](#getting-started)
+   * [Prerequisites](#prerequisites)
+   * [Installation](#installation)
+   * [Usage](#usage)
+* [Contributing](#contributing)
+* [Collaborators](#collaborators)
+* [License](#license)
+
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify">
@@ -103,8 +115,10 @@ GRAPHCMS_SCHEMA_PATH|GraphCMS API's url (used in graphql codegen)|`https://api-s
 yarn codegen
 ```
 
+<h3 id="usage"> :metal: Usage</h3>
+
 <p align="justify">
-  6. Run the following command to start the application in a development environment:
+  1. Run the following command to start the application in a development environment:
 </p>
 
 ```
@@ -112,8 +126,12 @@ yarn dev
 ```
 
 <p align="justify">
-  7. Open the project into your browser in http://localhost:3000
+  2. Open the project into your browser in:
 </p>
+
+```
+http://localhost:3000
+```
 
 <h2 id="contributing"> :tada: Contributing</h2>
 
@@ -135,7 +153,7 @@ yarn dev
 
 For more information read the [Contributing Guidelines](https://github.com/arrudadev/jamstack-next-graphcms/blob/main/CONTRIBUTING.md).
 
-<h2 id="collaborators"> :tada: Collaborators</h2>
+<h2 id="collaborators"> :smile: Collaborators</h2>
 
 <p align="justify">
   People who contributed to this project.
