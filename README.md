@@ -72,6 +72,7 @@ This project was developed with the following technologies:
 
 - [NodeJs](https://nodejs.org/en/) Prefer to install the LTS version.
 - [Yarn](https://yarnpkg.com/) Need to install latest version prior to 2.0 version.
+- [GraphCMS](https://yarnpkg.com/) You Need to setup the GraphCMS. See the [documentation](https://github.com/arrudadev/jamstack-next-graphcms/blob/main/docs/graphcms.md) for setup your GraphCMS for this project.
 
 <h3 id="installation"> :construction_worker: Installation</h3>
 
